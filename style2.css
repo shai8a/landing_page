@@ -26,9 +26,10 @@ body {
 
 }
 
-#sec1 {
+#sec1 p{
     margin: auto;
     font-family: arimo;
+    font-weight:700;
     font-size: 30px;
     text-align: center;
 }
@@ -80,7 +81,7 @@ body {
 
 .personal_photo {
     width: 35%; 
-    margin-right: 95px;
+    margin-right: 60px;
 
 
 }
