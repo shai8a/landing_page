@@ -94,6 +94,7 @@ body {
 
 .personal_photo {
     width: 40%;
+    height: 70%;
     display: flex;
 }
 
