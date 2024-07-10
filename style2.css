@@ -118,20 +118,22 @@ form {
 
 label{
     display: block;
-    margin-top: 14px;
+    margin-top: 16px;
 }
 ::-webkit-input-placeholder {
-    color: rgb(0, 0, 0);
+    color: rgb(15, 39, 20);
+    padding-left: 2px;
+    font-size: 25px;
+    padding-left: 4px;
 }
 
 input{
     width: 80%;
     height:50px ;
     font-size: 20px;
-    border-radius: 6px;
-    background-color: rgb(15, 39, 20);
-    opacity: 20%;
-    outline-color: invert;
+    border:none;
+    background-color: rgb(15, 39, 20 , 0.2);
+    margin-top: 7px;
 }
 
 
@@ -145,7 +147,7 @@ form .message input{
     justify-content: left;
     width: 80% !important;
     height: 80px;
-    margin-left: 168px;
+    margin-left: 140px;
 }
 
 .send button{
@@ -153,9 +155,9 @@ form .message input{
     width: 200px;
     margin-top: 20px;
     height: 50px;
-    border-radius: 6px;
-    font-size: 20px;
-    background-color: rgb(15, 39, 20);
-    opacity: 25%;
+    border:none;
+    font-size: 25px;
+    background-color: rgb(15, 39, 20 , 0.2);
+    
     outline-color: invert;
 }
