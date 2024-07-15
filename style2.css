@@ -241,7 +241,8 @@ input {
     height: 50px;
     font-size: 20px;
     border: none;
-    background-color: rgba(235, 228, 220, 0.87);
+    background-color: rgba(235, 228, 220, 0.582);
+    border-radius: 6px;
     margin-top: 7px;
     outline: none;
 }
@@ -267,7 +268,8 @@ form .message input {
     height: 50px;
     border: none;
     font-size: 25px;
-    background-color: rgb(15, 39, 20, 0.2);
+    background-color: rgba(235, 228, 220, 0.582);
+    border-radius: 6px;
 
     outline-color: invert;
 }
