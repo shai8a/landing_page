@@ -150,7 +150,7 @@ body {
     }
 
     .logo {
-        width: 35%;
+        width: 40%;
     }
 
     #sec2 {
@@ -241,7 +241,7 @@ input {
     height: 50px;
     font-size: 20px;
     border: none;
-    background-color: rgb(15, 39, 20, 0.2);
+    background-color: rgba(235, 228, 220, 0.87);
     margin-top: 7px;
     outline: none;
 }
